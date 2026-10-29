@@ -15,7 +15,9 @@ You need **both** of these, or it won't work:
 2. **AutoHotkey v2**: https://www.autohotkey.com
    Runs `G29Shifter.ahk`.
 
-In game, gear down must be `Z`.
+In-game controls must be set to:
+- Gear down: `Z`
+- Brake / Reverse: `Down` arrow
 
 ## Setup
 
