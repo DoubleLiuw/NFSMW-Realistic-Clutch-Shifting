@@ -10,7 +10,6 @@ You need **both** of these, or it won't work:
    Lets you pick a gear directly with the number keys.
    - Download `MW2005-HShifter.asi` from its Releases page.
    - Put it in the game folder or the game's `scripts` folder.
-   - Needs an ASI loader.
    - Only works with **NFS Most Wanted 1.3 Black Edition**.
 2. **AutoHotkey v2**: https://www.autohotkey.com
    Runs `G29Shifter.ahk`.
